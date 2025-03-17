@@ -21,5 +21,4 @@ This is a simple **Drum Kit** web application that allows users to play differen
    - `L` → Snare
 3. Enjoy playing the drums! 🥁
 
-## 📂 Project Structure
 
